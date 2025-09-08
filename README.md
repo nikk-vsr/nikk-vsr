@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikk-vsr
-- 👀 I’m interested in Power electronics, Embedded Systems for Automotive 
-- 🌱 I’m currently learning ARM, TriCore, DSP Architecture
-- 💞️ I’m looking to collaborate on embedded software development
+- 👀 I’m interested in AI, Deep learning, Edge/Embedded Systems 
+- 🌱 I’m currently learning Deep learning, Large language models
+- 💞️ I’m looking to collaborate on AI model development
 - 📫 How to reach me .. nikhilvaliveti@gmail.com
 
 <!---
